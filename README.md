@@ -1,5 +1,4 @@
-### Hi there 👋 ## नमस्ते 🙏
-
+ 
 <!--
 **tarun-nagpal-github/tarun-nagpal-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,11 +40,13 @@ Here are some ideas to get you started:
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/tarunnagpal1/">
-    <img src="https://img.shields.io/badge/linkedin-erika--lopes-blue">
+    <img src="https://img.shields.io/badge/Twitter-Twitter-blue">
   </a>
   
- 
+  <a href="https://twitter.com/tarunnagpal78">
+    <img src="https://img.shields.io/badge/Twitter-Twitter-blue">
+  </a>
+  
 </p>
 </h1>
-
-<h3 align="center"><strong> feel free to look at my experiment lab. ❤ </strong> </h3>
+ 
