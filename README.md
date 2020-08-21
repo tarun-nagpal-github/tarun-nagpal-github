@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">   Hello 👋, नमस्ते 🙏 i'm Tarun Nagpal  </h1>
-<h3 align="center">🚀 Fullstack devlover 🚀</h3>
+<h3 align="center">🚀 Fullstack developer 🚀</h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
@@ -40,11 +40,15 @@ Here are some ideas to get you started:
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/tarunnagpal1/">
-    <img src="https://img.shields.io/badge/Twitter-Twitter-blue">
+    <img src="https://img.shields.io/badge/Linkedin-Linkedin-blue">
   </a>
   
   <a href="https://twitter.com/tarunnagpal78">
     <img src="https://img.shields.io/badge/Twitter-Twitter-blue">
+  </a>
+  
+   <a href="https://tarunnagpal.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Portfolio-lightgrey">
   </a>
   
 </p>
