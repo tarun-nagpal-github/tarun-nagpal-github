@@ -17,22 +17,22 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> 🤩 hello, i'm Erika Lopes 🤩 </h1>
-<h3 align="center">🚀 fullstack devlover 🚀</h3>
+<h1 align="center">   Hello 👋, नमस्ते 🙏 i'm Tarun Nagpal  </h1>
+<h3 align="center">🚀 Fullstack devlover 🚀</h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 ### 💻 my favorite stack:
-- React Native ❤
-- ReactJS & Styled-Components
+- ReactJS ❤
+- React Native
 - NodeJS & Express
-- A little PHP
+- PHP
 - HTML & CSS
 
 ### 👧 a little about myself:
-- I'm 20 years old., and I live in Ceará, BR.
-- I study information systems in Faculdade de Juazeiro do Norte.
-- I'm a little too addicted to coffee.
+- I am a JavaScript Programmer who loves to share and use the code. 
+- I am organizer of DevTalksIndia (https://devtalks.in/) 
+- I write my blogs here https://medium.com/@tarunnagpal78
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
@@ -40,13 +40,11 @@ Here are some ideas to get you started:
 ✨ where you can find me ✨
   
   <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/erika-lopes/">
+   <a href="https://www.linkedin.com/in/tarunnagpal1/">
     <img src="https://img.shields.io/badge/linkedin-erika--lopes-blue">
   </a>
   
-  <a href="https://www.instagram.com/erika.cafezin/">
-    <img src="https://img.shields.io/badge/instagram-erika.cafezin-red">
-  </a>
+ 
 </p>
 </h1>
 
