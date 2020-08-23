@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - PHP
 - HTML & CSS
 
-### 👧 a little about myself:
+### 👦 a little about myself:
 - I am a JavaScript Programmer who loves to share and use the code. 
 - I am organizer of DevTalksIndia (https://devtalks.in/) 
 - I write my blogs here https://medium.com/@tarunnagpal78
