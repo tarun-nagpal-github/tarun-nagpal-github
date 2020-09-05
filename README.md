@@ -53,4 +53,19 @@ Here are some ideas to get you started:
   
 </p>
 </h1>
+
+
+## Speaking :
+
+I love to give talks on various technolgoes. These gives me a good feeling and I enjoy them.
+
+[Introduction to Version Control System](https://www.youtube.com/watch?v=-D6hEKc3O1o&t=1s)
+
+
+## Writing
+
+I write blogs on the things I have expreince. Writing blogs is like opening your heart to everyone. You can check out my lastest blogs.
+
+[Add Redux to React APP](https://www.realmelon.com/react-redux-how-to-add-redux-into-create-react-app/)
+[Create a Role based access control in React.js ](https://www.realmelon.com/how-to-create-role-based-access-control-in-react-js/)
  
